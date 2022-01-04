@@ -1,0 +1,36 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  margin: 0 auto;
+  background-color: coral;
+  margin-top: 50px;
+}
+
+.card img {
+  margin-top: 20px;
+  width: 250px;
+  height: 200px;
+}
+
+.card h1 {
+  color: white;
+  font-size: large;
+  font-style: italic;
+}
+
+.card h5 {
+  color: rgb(233, 176, 164);
+}
+
+.card h3 {
+  color: rgb(226, 89, 89);
+}
+
+.card button {
+  background-color: cadetblue;
+  color: white;
+  border-radius: 5%;
+  margin-bottom: 5px;
+}
